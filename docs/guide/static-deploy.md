@@ -316,4 +316,4 @@ Deploy your static site using [EdgeOne Pages](https://edgeone.ai/products/pages)
 
 ## AWS Amplify
 
-Deploy your static site using [AWS Amplify](https://aws.amazon.com/amplify/) by following these [instructions](https://integ.www.docs.aws.a2z.com/amplify/latest/userguide/getting-started.html).
+Deploy your static site using [AWS Amplify](https://aws.amazon.com/amplify/) by following this [guide](https://integ.www.docs.aws.a2z.com/amplify/latest/userguide/getting-started.html).

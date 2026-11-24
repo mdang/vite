@@ -313,3 +313,7 @@ Follow the steps in [the Vite deployment guide](https://docs.zephyr-cloud.io/bun
 ## EdgeOne Pages
 
 Deploy your static site using [EdgeOne Pages](https://edgeone.ai/products/pages) by following these [instructions](https://pages.edgeone.ai/document/vite).
+
+## AWS Amplify
+
+Deploy your static site using [AWS Amplify](https://aws.amazon.com/amplify/) by following these [instructions](https://integ.www.docs.aws.a2z.com/amplify/latest/userguide/getting-started.html).
